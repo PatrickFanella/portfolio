@@ -15,7 +15,7 @@ export default function Homepage({}: Props) {
         <div className='min-h-screen flex flex-col justify-evenly'>
             <div>
                 <img
-                    src='/facepic.jpeg'
+                    src='https://i.imgur.com/EGv05nZ.jpg'
                     alt="Patrick's Portrait"
                     className='rounded-full m-4 border-8 border-[#ff79c6] h-48 w-48 mx-auto'
                 />

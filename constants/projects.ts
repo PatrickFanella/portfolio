@@ -3,7 +3,7 @@ const projects = [
         title: 'DeliverZero inc.',
         description:
             'A forward-thinking web and mobile application company. My contributions transformed our platform. By optimizing data structures and implementing efficient caching strategies, I boosted application performance. Through architecting a serverless backend using MongoDB cloud service, I have slashed costs and enhanced scalability. By collaborating with key partners like Toast, DoorDash, and Whole Foods, I have not only driven revenue but also launched successful new products. My data-driven decision-making and innovative thinking have led to streamlined operations and remarkable cost reductions in reverse logistics. My expertise in agile methodologies has ensured the prompt delivery of top-notch software solutions.',
-        img: '/DeliverZero.png',
+        img: 'https://i.imgur.com/wYvmNjj.png',
         technologies: 'React Native, Redux, Redux-Saga, MongoDB, Realm',
     },
     {
