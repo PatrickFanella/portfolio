@@ -82,7 +82,7 @@ export default function Homepage({}: Props) {
                     </a>
                 </div>
             </div>
-            <div className='m-8 max-w-4xl'>
+            <div className='m-8 max-w-4xl mx-auto'>
                 <Projects />
             </div>
         </div>
